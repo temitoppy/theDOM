@@ -1,2 +1,4 @@
 # theDOM
-In the beginning there was the DON
+In the beginning there was the DOM
+### Things covered
+
